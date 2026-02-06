@@ -1,5 +1,7 @@
 ## GradientSport
 
+![welcome-section](https://github.com/meridian-1/gradientSport/blob/main/screenshots/gif1.gif)
+
 ## Project description
 
 Gradient Sport is an interactive landing page for a sports and travel store. The project features a modern design with gradient backgrounds, smooth animation, and parallax effects. The website includes sections on sports, tourism, and recreation, as well as an image gallery.
@@ -11,6 +13,8 @@ Gradient Sport is an interactive landing page for a sports and travel store. The
 - **JavaScript (ES6+)** - Interactivity
 - **GSAP** - Animation Library
 - **Lenis** - Smooth Scrolling
+
+![welcome-section](https://github.com/meridian-1/gradientSport/blob/main/screenshots/gif2.gif)
 
 ## Functionality
 - **Interactive Accordion**: Sports, Tourism, and Recreation sections with smooth transitions
